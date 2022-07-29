@@ -1,0 +1,95 @@
+@media (max-width: 1950px){
+    form {    
+      position: absolute;
+      left: 10%; 
+    }
+  }
+  
+  @media (max-width: 1440px){
+    form { 
+      position: absolute;
+      left: 5%;
+    }
+  }
+  
+  
+  @media (max-width: 500px) {
+    #page-main {  
+      width: 0;      
+      
+    }
+  } 
+
+  @media (max-width: 500px) {
+    main {  
+      width: 100vw;      
+      
+    }
+  }
+    
+    @media (max-width: 500px){
+      form {
+        width: 80vw;      
+        position: absolute;
+        left: 10%;      
+      }
+    }
+      @media (max-width: 500px){
+        fieldset {
+        width: 50vw;   
+        position: absolute;
+        left: 1%;            
+  
+    }
+   }
+   @media (max-width: 500px){
+       .container {
+        position: relative;
+        left: 10%;
+        width: 75%; 
+       }
+   }
+
+    @media (max-width: 500px){
+      .form-group input {
+        width: 70vw;
+     }  
+   } 
+
+   @media (max-width: 500px){
+    .form-group-3 span {    
+      left: 30%;
+
+    }     
+  }  
+
+   @media (max-width: 500px){
+    .form-group-3 a{    
+      top: 135px;
+      left: -8px;      
+    }     
+  } 
+
+  @media (max-width: 500px) {
+    .eye {               
+        left: 90%;        
+    }
+  }
+  
+  @media (max-width: 500px){
+   .btn {    
+    font-size:16px;
+    font-weight: 600;
+    width: 85%;
+    left: 3%;
+    top: 25px;
+    }
+   }
+   
+   @media (max-width: 500px){
+       .footer {         
+        top: 60px;
+        left: 8px;
+    }
+}
+ 
