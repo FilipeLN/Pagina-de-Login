@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <img alt="Mobile" src="https://raw.githubusercontent.com/FilipeLN/PageLogin/main/assets/mobile.png" width=" 19%"> 
-    <img alt="Web" src="https://raw.githubusercontent.com/FilipeLN/PageLogin/main/assets/Webprint.jpg" width="80%" >
+  <img alt="Mobile" src="https://raw.githubusercontent.com/FilipeLN/Pagina-de-Login/main/assets/mobile.png" width=" 19%"> 
+    <img alt="Web" src="https://raw.githubusercontent.com/FilipeLN/Pagina-de-Login/main/assets/Webprint.jpg" width="80%" >
 </p>
 
 
